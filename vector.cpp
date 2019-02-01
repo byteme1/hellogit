@@ -3,7 +3,7 @@
 #include <string>
 using namespace std;
 
-int main{
+int main(){
 vector<char> v;
 vector<int> v1 = {10, 14, 32, 64, 16};
 
